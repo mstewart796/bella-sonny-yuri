@@ -1,1 +1,1 @@
-This is a CNN that I trained onimages of my three cats (Bella, Sonny and Yuri) with the goal of it being able to tell each cat apart. Although the training (20 images) and test (10 images) were small it achieved 90% accuracy after 25 epochs.
+This is a CNN that I trained onimages of my three cats (Bella, Sonny and Yuri) with the goal of it being able to tell each cat apart. Although the training (20 images) and test (10 images) datasets were small it achieved 90% accuracy after 25 epochs.
